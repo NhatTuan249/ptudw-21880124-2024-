@@ -1,3 +1,5 @@
+'use strict'
+
 let controller = {};
 const models = require('../models');
 const sequelize = require('sequelize');
