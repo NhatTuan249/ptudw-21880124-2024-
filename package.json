@@ -10,12 +10,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "connect-redis": "^8.0.0",
     "express": "^4.21.1",
     "express-handlebars": "^8.0.1",
     "express-handlebars-paginate": "^1.0.3",
     "express-session": "^1.18.1",
     "pg": "^8.13.1",
     "pg-hstore": "^2.3.4",
+    "redis": "^4.7.0",
     "sequelize": "^6.37.5"
   }
 }
